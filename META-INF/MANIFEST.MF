@@ -1,0 +1,138 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-mdpi-v4/btn_zoom_up_disabled_focused.9.png
+SHA1-Digest: py2peye3oVIsoVJPwJ9eFGtJT5I=
+
+Name: res/drawable-ldpi-v4/ic_keyboard.png
+SHA1-Digest: wgcEovG8v3L9S28yJeMdDpEmSEI=
+
+Name: res/drawable-hdpi-v4/btn_zoom_down_selected.9.png
+SHA1-Digest: Zz2QFo87HZV+1Pn2sT1CwpKISr4=
+
+Name: res/drawable-hdpi-v4/btn_zoom_up_pressed.9.png
+SHA1-Digest: n9IwgVkbleVuoKGlt6+j62cMxPE=
+
+Name: res/drawable-hdpi-v4/btn_zoom_up_disabled.9.png
+SHA1-Digest: ywQK//iMTceojewyQne6Q9qnYSo=
+
+Name: res/drawable/btn_zoom_up_disabled_focused.9.png
+SHA1-Digest: py2peye3oVIsoVJPwJ9eFGtJT5I=
+
+Name: res/drawable-mdpi-v4/btn_zoom_up_normal.9.png
+SHA1-Digest: TIqpzt9hLznoTXkumBYPIQ/1fLU=
+
+Name: res/drawable-xhdpi-v4/ic_keyboard.png
+SHA1-Digest: tDgrEct0AOQhr0afHuZ/XizNrWQ=
+
+Name: res/drawable/btn_zoom_down.xml
+SHA1-Digest: SvJFXjfYZOLR8r2+C+uJfLNMO00=
+
+Name: res/drawable-mdpi-v4/btn_zoom_down_selected.9.png
+SHA1-Digest: uE8tUxRS1EHeamoozonGrEcV4Cc=
+
+Name: res/drawable-hdpi-v4/btn_zoom_up_disabled_focused.9.png
+SHA1-Digest: 0nPiOF0/widbbKeRCD0Zwja/xX8=
+
+Name: res/drawable/btn_zoom_up_normal.9.png
+SHA1-Digest: TIqpzt9hLznoTXkumBYPIQ/1fLU=
+
+Name: res/drawable/ic_menu_moreoverflow_normal_holo_light.png
+SHA1-Digest: A0omTeZYVrb6/fw2B5Jo2lZjtJg=
+
+Name: res/drawable-hdpi-v4/btn_zoom_down_disabled.9.png
+SHA1-Digest: zPjxZyk875JwHVQfV42DqZ5PHlQ=
+
+Name: res/drawable/btn_zoom_down_disabled.9.png
+SHA1-Digest: P295ys/S9+nwHC/IFDk4x46phks=
+
+Name: res/drawable-hdpi-v4/btn_zoom_up_selected.9.png
+SHA1-Digest: 4FNb7Zc4tumYWpGZpQI+epIGB/8=
+
+Name: res/drawable-hdpi-v4/btn_zoom_up_normal.9.png
+SHA1-Digest: RGHngn+BXKVqOKAbXc4VqFD8jlI=
+
+Name: res/drawable-hdpi-v4/btn_zoom_down_pressed.9.png
+SHA1-Digest: bAa/MIDDJZTR5akqdjuTeuDtFpU=
+
+Name: res/drawable-xhdpi-v4/ic_menu_moreoverflow_normal_holo_light.png
+SHA1-Digest: /1u9qSoTArwwIU56yGVyLkdkTbk=
+
+Name: res/drawable-ldpi-v4/ic_menu_moreoverflow_normal_holo_light.png
+SHA1-Digest: 4CrQTRNH2Iiiohz0hHDHMfJ3RLU=
+
+Name: resources.arsc
+SHA1-Digest: zsqdWtQYISrTLY7y8OFRCXk6wEs=
+
+Name: res/drawable-mdpi-v4/btn_zoom_down_disabled_focused.9.png
+SHA1-Digest: uOwug0tukrK2+KGVecTZ++Usc20=
+
+Name: res/drawable-mdpi-v4/btn_zoom_up_selected.9.png
+SHA1-Digest: /IhyVkjRJmDMpLOARHBGb7anLBg=
+
+Name: res/drawable/btn_zoom_up_disabled.9.png
+SHA1-Digest: TG4lPByeAWdP9Ws5Si/aHznMSmI=
+
+Name: res/drawable/btn_zoom_down_normal.9.png
+SHA1-Digest: B6aivTT4dqvBU6N6x9m2SZfcer4=
+
+Name: res/drawable-mdpi-v4/ic_menu_moreoverflow_normal_holo_light.png
+SHA1-Digest: A0omTeZYVrb6/fw2B5Jo2lZjtJg=
+
+Name: classes.dex
+SHA1-Digest: IwYKBMRO6fJbEuutmLfeJgmGnrA=
+
+Name: res/drawable/btn_zoom_down_selected.9.png
+SHA1-Digest: uE8tUxRS1EHeamoozonGrEcV4Cc=
+
+Name: res/drawable-mdpi-v4/btn_zoom_up_disabled.9.png
+SHA1-Digest: TG4lPByeAWdP9Ws5Si/aHznMSmI=
+
+Name: res/drawable-mdpi-v4/btn_zoom_down_disabled.9.png
+SHA1-Digest: P295ys/S9+nwHC/IFDk4x46phks=
+
+Name: res/drawable-mdpi-v4/ic_keyboard.png
+SHA1-Digest: fr4BeOzB9MAUOFDx20VSdvchjqo=
+
+Name: res/drawable/btn_zoom_up.xml
+SHA1-Digest: ecoYCYXJs58SSAB38ZLYF+thEJ0=
+
+Name: res/drawable/btn_zoom_down_disabled_focused.9.png
+SHA1-Digest: uOwug0tukrK2+KGVecTZ++Usc20=
+
+Name: res/drawable-mdpi-v4/btn_zoom_up_pressed.9.png
+SHA1-Digest: 4HDrEMM3bYCJvX4T6/iAlWnykhU=
+
+Name: res/layout/zoom_controls.xml
+SHA1-Digest: n0NdfpABBKubAf9D+qJJMyTBOGQ=
+
+Name: res/drawable/btn_zoom_up_pressed.9.png
+SHA1-Digest: 4HDrEMM3bYCJvX4T6/iAlWnykhU=
+
+Name: res/drawable-hdpi-v4/btn_zoom_down_disabled_focused.9.png
+SHA1-Digest: lfdEe2D7Yt8DbwLn7ThgztJFkTo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: seodY+/42mgvjvM8BjsvjSGEpMw=
+
+Name: res/drawable-mdpi-v4/btn_zoom_down_normal.9.png
+SHA1-Digest: B6aivTT4dqvBU6N6x9m2SZfcer4=
+
+Name: res/drawable-hdpi-v4/ic_keyboard.png
+SHA1-Digest: oumpPsH/utMmtf7Q/Fx9GFzqTms=
+
+Name: res/drawable/ic_keyboard.png
+SHA1-Digest: fr4BeOzB9MAUOFDx20VSdvchjqo=
+
+Name: res/drawable/btn_zoom_down_pressed.9.png
+SHA1-Digest: LHIABNznu/mmtauNPNiw+ERS3I4=
+
+Name: res/drawable/btn_zoom_up_selected.9.png
+SHA1-Digest: /IhyVkjRJmDMpLOARHBGb7anLBg=
+
+Name: res/drawable-mdpi-v4/btn_zoom_down_pressed.9.png
+SHA1-Digest: LHIABNznu/mmtauNPNiw+ERS3I4=
+
+Name: res/drawable-hdpi-v4/btn_zoom_down_normal.9.png
+SHA1-Digest: GS8Ufup5F8bm5xexwcj9MWbNLOk=
+
